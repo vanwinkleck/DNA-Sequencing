@@ -1,4 +1,4 @@
-This was one of the projects I worked on for a class taught by Jason Fritts in the spring semester of 2019. To run the program, simple run it in IDLE and use either one of the test DNA sequences in "test.txt" or enter your own valid DNA sequence.
+This was one of the projects I worked on for a class taught by Jason Fritts in the spring semester of 2019. To run the program, open it in IDLE and use the "run the module" option. Feel free to use either one of the test DNA sequences in "test.txt" or to enter your own valid DNA sequence.
 Because this project was originally hard for us to grasp, I am attaching below the original prompt for the project so you can understand what the goal of this assignment was:
 
 DNA can be modeled as a string of characters using the alphabet A, C, G, and T. One form of DNA mutation occurs when a substring of the DNA is reversed during the replication process. Usually, such a reversal occurs between what are termed inverted pairs, where some substring is followed later by its reversal.As an example, consider the original DNA strand:CGATTGAACATGTAAGTCCAATT 
